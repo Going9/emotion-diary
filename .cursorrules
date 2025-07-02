@@ -8,6 +8,7 @@ Key Principles
 - Prefer iteration and modularization over code duplication.
 - Use descriptive variable names with auxiliary verbs (e.g., isLoading, hasError).
 - Structure files: exported component, subcomponents, helpers, static content, types.
+- Whenever I ask a question in English, please first rephrase the question into correct English and then provide your answer.
 
 Naming Conventions
 
@@ -45,4 +46,4 @@ Key Conventions
 - `meta` returns MetaFunction type.
 - `json` does not exists anymore. Return plain objects i.e `export function loader({ request }: Route.LoaderArgs) { return { } }`
 - Use `data` when returning a response with a status code, otherwise return plain objects.
-- Always Answer in korean.
+Here’s a concise rule you can use in English:
